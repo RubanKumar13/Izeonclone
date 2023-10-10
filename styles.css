@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;}
+.g{
+    background-color:gray!important ;
+}
+.f{
+    font-size:xx-large;
+    font-weight:bolder;
+}
+hr{
+    width: 25%;
+}
